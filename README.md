@@ -56,8 +56,7 @@ All codes and updates will be available here.
 
 ---
 
-## ⭐ Author
+## 📬 Contact
 
-Harshit Khanna
-BCA 1st Year
-II Semester
+- GitHub: [harshittheprogrammer69](https://github.com/Harshittheprogramer69)
+- Email: [ubisoftgamer18@gmail.com](mailto:"ubisoftgamer18@gmail.com")
