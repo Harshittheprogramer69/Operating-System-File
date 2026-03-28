@@ -29,11 +29,10 @@ It includes implementations of core OS concepts such as:
 
 ## ▶️ How to Run
 
-1. Compile:
-   gcc filename.c -o output.exe
-
-2. Run:
-   output.exe
+```bash
+gcc filename.c -o filename
+./filename
+```
 
 ---
 
